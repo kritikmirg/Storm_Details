@@ -1,3 +1,2 @@
  *.html linguist-detectable=false
- *.jupyter notebook linguist-detectable=false
- *.python linguist-detectable=false
+ *.python linguist-detectable=true
