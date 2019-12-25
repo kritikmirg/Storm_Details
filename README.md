@@ -21,3 +21,6 @@ Map is zoom friendly, zoomable to street level
   **Orange:** Heat Events, Drought, Dust Devil, Dust Storm, Excessive Heat, Heat, Wildfire, Volcanic Ashfall <br>
   **Red:** Lightning Events: Lightning, Strong Wind, Thunderstorm Wind, Tornado <br>
   **Green:** Other <br>
+
+
+![storm_gif](https://user-images.githubusercontent.com/57408020/71432613-cb932200-26a8-11ea-90a6-15ff830c9de0.gif)
