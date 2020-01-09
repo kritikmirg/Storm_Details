@@ -2,8 +2,8 @@
 Extracted and cleaned data from the NCDC Storm Events Database and analyzed factors such as frequency of weather patterns and change in weather patterns over time. Project combines 10 data sets organized by year into one cohesive chronological set containing every recorded weather event between 2008-2018. Using python functions were written to narrow down the data by state, or by state and year. With a combination of pandas, Matplotlib, .json files, API’s, and data analysis techniques, graphs are outputted based user’s input of state and year. Points are plotted onto a map of the United States displaying weather events on specific state and corresponding year. View Storm_Graphs.ipynb for visuals about storm data in the United States from 2008 - 2018.
 
 ## Installation Guide:
-Install Folium: https://pypi.org/project/folium/
-Install Geocoder: https://pypi.org/project/geocoder/
+Install Folium: https://pypi.org/project/folium/ <br>
+Install Geocoder: https://pypi.org/project/geocoder/ <br>
 ## How to use Storm_Details.ipynb
 
 ### Step 1: Run produce_details(comb_D) cell
